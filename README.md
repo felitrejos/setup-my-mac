@@ -1,8 +1,6 @@
 # setup-my-mac
 
-A one-command setup script to get a fresh macOS machine ready with my everyday tools and apps.
-
-New laptop? Run one command, grab a coffee, and come back to a configured Mac.
+A one-command setup script to get a fresh macOS machine ready with everyday tools and apps.
 
 ## Usage
 
