@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# setup-my-mac — bootstrap a fresh macOS machine with my everyday tools and apps.
+# setup-my-mac — bootstrap a fresh macOS machine with everyday tools and apps.
 
 REPO_RAW="https://raw.githubusercontent.com/felitrejos/setup-my-mac/main"
 
@@ -62,10 +62,5 @@ cat <<'EOF'
 
 A few apps aren't on Homebrew. Install these by hand if you want them:
   • Dia       https://www.diabrowser.com
-  • Klack     https://tryklack.com
-  • Dockitty  (Mac App Store)
-  • Ping      (Mac App Store)
-  • Glaze     (install your version manually)
-  • Xcode     (Mac App Store)
 
 EOF
