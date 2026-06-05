@@ -34,7 +34,7 @@ The script is safe to re-run — it skips anything that's already installed.
 Node.js, Bun, Go, Zig, Python (3.12 & 3.13), uv, Poetry, CMake, Ninja, gh, wget, tree, nmap, Ollama, and more — see the [`Brewfile`](Brewfile) for the full list.
 
 **Apps**
-Ghostty, Zed, Raycast, 1Password, Notion, Linear, Zoom, Docker Desktop, Claude, Alcove, Wispr Flow.
+Ghostty, Zed, Raycast, 1Password, Notion, Linear, Slack, Zoom, Docker Desktop, Claude, Alcove, Wispr Flow.
 
 ## Installed manually
 
